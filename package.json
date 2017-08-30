@@ -1,0 +1,21 @@
+{
+    "name": "python-snippets-oon",
+    "displayName": "python-snippets",
+    "description": "Personal Snippets ",
+    "version": "0.0.1",
+    "publisher": "ariestiyansyah",
+    "engines": {
+        "vscode": "^1.15.0"
+    },
+    "categories": [
+        "Snippets"
+    ],
+    "contributes": {
+        "snippets": [
+            {
+                "language": "python",
+                "path": "./snippets/snippets.json"
+            }
+        ]
+    }
+}
